@@ -1,0 +1,10 @@
+﻿  Building 'readmenory' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  源.c
+D:\windows driver\githubdemo\read_menory\readmenory\readmenory\源.c(81,28): warning C4100: “driverobj”: 未引用的形参
+D:\windows driver\githubdemo\read_menory\readmenory\readmenory\源.c(96,62): warning C4047: “=”:“NTSTATUS (__cdecl *)(HANDLE,PVOID,PVOID,ULONG,PULONG)”与“ULONGLONG”的间接级别不同
+D:\windows driver\githubdemo\read_menory\readmenory\readmenory\源.c(90,1): warning C4047: “初始化”:“const PKeServiceDescriptorTable”与“ULONGLONG”的间接级别不同
+D:\windows driver\githubdemo\read_menory\readmenory\readmenory\源.c(107,1): warning C4047: “初始化”:“PVOID64”与“unsigned int”的间接级别不同
+D:\windows driver\githubdemo\read_menory\readmenory\readmenory\源.c(85,64): warning C4100: “seg_path”: 未引用的形参
+  readmenory.vcxproj -> D:\windows driver\githubdemo\read_menory\readmenory\x64\Release\readmenory.sys
+  Inf2Cat task was skipped as there were no inf files to process
+  
